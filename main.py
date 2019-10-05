@@ -17,7 +17,7 @@ ENEMY_HP = 50
 PlAYER_HP = 100
 HIT_SCORE = 10
 KILL_SCORE = 100
-NUM_ENEMIES = 5
+NUM_ENEMIES = 6
 STARTING_LOCATION = (400,100)
 
 class Bullet(arcade.Sprite):
@@ -96,8 +96,8 @@ class Window(arcade.Window):        #CONFUSING
 
     def on_mouse_motion(self, x, y, dx, dy):
         """ Called to update our objects. Happens approximately 60 times per second."""
-        self.player.position_x = x
-        self.player.position_y = y
+        self.player.center_x = x
+        self.player.center_y = y
         pass
 
     def on_mouse_press(self, x, y, button, modifiers):
