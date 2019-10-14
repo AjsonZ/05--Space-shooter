@@ -1,0 +1,41 @@
+Name: Stephen Nixon
+Date: 10/14/2019
+Project: 5 - Space Shooter
+Peer's repository: https://github.com/AjsonZ/05--Space-shooter
+
+
+
+What is something you learned by reviewing your peer's project?
+
+    I learned that one could add a Kill score constant to give extra points upon the death of the enemy.
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+    I would like to apply something similar to the scoring system in the project. 
+    It had a lot of potential for positive feedback for the user.
+
+What suggestions would you have for your peer to improve his/her code?
+
+    There are some reduntant blocks of code that were adapted from the exercises (PLAYER_HP). 
+    Removing those unnecesary blocks of code would help it be more readable.
+
+What could have been clearer or better commented?
+
+    It was hard to tell which sections were written by you and which came from the exercise templates.
+    Clearly commenting what additions you made to the code (like the collisions/ scoring system) would make the code more readable.
+
+Was there anything in the code that was confusing to you? If so, what?
+
+    The #Confusing comment next to the Window class, I assume this was just leftover from the exercise.
+
+Does the repository contain an appropriate LICENSE?
+
+    Yes.
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+    Maybe link the repositories for the templates that you pulled from. 
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+    Good Job! The handling of the bullet collisions was done well, and I could not find any errors with the collisions implemented.
